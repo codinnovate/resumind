@@ -8,3 +8,8 @@ temp_auto_push.bat
 .gitignore
 temp_interactive_push.bat
 branch_structure.json
+
+# secrets (purged from history 2026-09-20)
+.env
+.env.*
+!.env.example
